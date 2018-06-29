@@ -1,0 +1,297 @@
+* {
+    font-family: verdana, sans-serif;
+    margin: auto;
+}
+
+body {
+    background: url("img/fight.png") no-repeat center fixed;
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    text-shadow: 2px 2px 4px black;
+}
+
+h1 {
+    background: url("img/latest.png") 50% no-repeat;
+    height: 300px;
+    color: #FFF;
+}
+
+h2 {
+    text-align: center;
+}
+
+.footer {
+    height: 150px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.footer nav {
+    color: white;
+}
+
+.admin {
+    color: white;
+    margin-top: 50px;
+}
+
+nav {
+    height: 192px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+ul {
+    width: 1100px;
+    padding: 0;
+    margin-top: 90px;
+}
+
+#zero {
+    display: inline-block;
+    list-style: none;
+    line-height: 50px;
+    width: 100px;
+    height: 72px;
+    padding-left: 65px;
+    margin-right: 40px;
+}
+
+#un {
+    display: inline-block;
+    list-style: none;
+    width: 100px;
+    height: 72px;
+    padding-left: 20px;
+    margin-right: 40px;
+}
+
+#deux {
+    display: inline-block;
+    list-style: none;
+    line-height: 50px;
+    width: 200px;
+    height: 72px;
+    padding-left: 0px;
+    margin-right: 40px;
+}
+
+#trois {
+    display: inline-block;
+    list-style: none;
+    line-height: 50px;
+    width: 170px;
+    height: 72px;
+    padding-left: 10px;
+    margin-right: 40px;
+}
+
+#quatre {
+    display: inline-block;
+    list-style: none;
+    line-height: 50px;
+    width: 200px;
+    height: 72px;
+
+    margin-left: -15px;
+}
+
+iframe {
+    margin-top: 50px;
+}
+
+li {
+    margin-top: 70px;
+}
+
+li a {
+    font-size: 25px;
+    color: #EECD06;
+    text-shadow: 2px 2px 4px black;
+}
+
+#text {
+    font-size: 75px;
+    text-shadow: 2px 2px 4px black;
+    color: #FFF;
+}
+
+form {
+    width: 510px;
+    margin-top: 50px;
+}
+
+input[type="email"] {
+    display: inline-block;
+    width: 300px;
+    height: 45px;
+    border-radius: 5px;
+}
+
+input[type="date"] {
+    display: inline-block;
+    width: 300px;
+    height: 45px;
+    border-radius: 5px;
+}
+
+input[type="password"] {
+    display: inline-block;
+    width: 300px;
+    height: 45px;
+    border-radius: 5px;
+}
+
+input[type="text"] {
+    display: inline-block;
+    width: 300px;
+    height: 45px;
+    border-radius: 5px;
+}
+
+input[type="submit"] {
+    display: inline-block;
+    width: 200px;
+    height: 45px;
+    border-radius: 5px black;
+    background-color: black;
+    color: #FFF;
+}
+
+a {
+    margin-top: 30px;
+    text-shadow: 3px 2px 4px black;
+    color: #FFF;
+    font-size: 30px;
+}
+
+label {
+    margin-top: 10px;
+    text-shadow: 2px 2px 4px black;
+    color: #FFF;
+    font-size: 30px;
+
+}
+
+#recherche {
+    margin-top: 30px;
+    width: 500px;
+    line-height: 20px;
+}
+
+#recherche h3 {
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px black;
+    color: #FFF;
+}
+
+#recherche p {
+    margin-bottom: 15px;
+    color: #FFF;
+}
+
+#recherche .film {
+    line-height: 30px;
+    color: white;
+
+}
+
+.pagi_other {
+    width: 20px;
+    background-color: red;
+    border-radius: 2px;
+    padding: 5px;
+}
+
+.pagi_link {
+    margin-top: 20px;
+    display: inline-block;
+    width: 30px;
+    text-align: center;
+    margin-left: 5px;
+    border-radius: 5px;
+    color: #FFF;
+    margin-bottom: 10px;
+}
+
+.pagi_actual {
+    width: 20px;
+    background-color: white;
+    border-radius: 2px;
+    padding: 5px;
+}
+
+#new {
+    margin-top: 14px;
+    display: block;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+table {
+    margin-top: 100px;
+    width: 1000px;
+    margin-bottom: 0;
+}
+
+tr {
+    background-color: rgba(0, 0, 0, 0.5);
+    text-shadow: 2px 2px 4px black;
+}
+
+.titre td {
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+.donnees td {
+    padding: 10px;
+    text-align: center;
+    color: #FFF;
+}
+
+.donnees a {
+    color: #FFF;
+    background: url("img/banniere.png") bottom left no-repeat;
+    padding-left: 25px;
+}
+
+.conteneur {
+    width: 1000px;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 30px;
+    text-shadow: 2px 2px 4px black;
+    color: #FFF;
+    font-size: 30px;
+}
+
+.conteneur table {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+th {
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+
+}
+
+.tbclient td {
+    padding: 10px;
+    text-align: center;
+    color: #FFF;
+}
